@@ -22,7 +22,13 @@ public class Test {
 		int res=a*b;
 		return res;
 	}
-	
+	public int div()
+	{
+		int a=50;
+		int b=10;
+		int res=a/b;
+		return res;
+	}
 }
 
 
