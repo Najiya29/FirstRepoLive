@@ -8,4 +8,11 @@ public class Test {
 		int res=a+b;
 		return res;
 	}
+	public int sub()
+	{
+		int a=10;
+		int b=5;
+		int res=a-b;
+		return res;
 }
+
