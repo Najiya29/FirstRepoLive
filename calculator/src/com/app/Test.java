@@ -14,5 +14,6 @@ public class Test {
 		int b=5;
 		int res=a-b;
 		return res;
+	}
 }
 
