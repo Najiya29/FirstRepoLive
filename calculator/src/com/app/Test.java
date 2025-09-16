@@ -15,5 +15,14 @@ public class Test {
 		int res=a-b;
 		return res;
 	}
+	public int mul()
+	{
+		int a=20;
+		int b=2;
+		int res=a*b;
+		return res;
+	}
+	
 }
+
 
